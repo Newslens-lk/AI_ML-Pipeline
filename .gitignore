@@ -1,0 +1,8 @@
+research/
+venv/
+data--division-lknews/data/
+data--division-lknews/corpus/
+data--division-lknews/annotations/
+data--division-lknews/__pycache__/
+phase1/data/
+
