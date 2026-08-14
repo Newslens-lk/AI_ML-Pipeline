@@ -5,4 +5,6 @@ data--division-lknews/corpus/
 data--division-lknews/annotations/
 data--division-lknews/__pycache__/
 phase1/data/
-
+aggregation_pipeline/data/
+Bias_Phase2/data/
+Bias_Phase1/data/
